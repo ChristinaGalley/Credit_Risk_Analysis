@@ -11,7 +11,7 @@ The purpose of this analysis is to compare and determine the best machine learni
 
 **Naive Random Oversampling**
 
--Balanced accuracy score:
+Balanced accuracy score:
 
 ![picture alt](https://github.com/ChristinaGalley/Credit_Risk_Analysis/blob/main/Resources/Naive_Random_Oversampling_balanced_accuracy_score.png)
 
@@ -23,7 +23,7 @@ The purpose of this analysis is to compare and determine the best machine learni
 
 **SMOTE Oversampling**
 
--Balanced accuracy score:
+Balanced accuracy score:
 
 ![picture alt](https://github.com/ChristinaGalley/Credit_Risk_Analysis/blob/main/Resources/SMOTE_Oversampling_balanced_accuracy_score.png)
 
@@ -35,7 +35,7 @@ The purpose of this analysis is to compare and determine the best machine learni
 
 **ClusterCentroids Undersampling**
 
--Balanced accuracy score:
+Balanced accuracy score:
 
 ![picture alt](https://github.com/ChristinaGalley/Credit_Risk_Analysis/blob/main/Resources/ClusterCentroids_Undersampling_balanced_accuracy_score.png)
 
@@ -47,7 +47,7 @@ The purpose of this analysis is to compare and determine the best machine learni
 
 **SMOTEENN Combination Sampling**
 
--Balanced accuracy score:
+Balanced accuracy score:
 
 ![picture alt](https://github.com/ChristinaGalley/Credit_Risk_Analysis/blob/main/Resources/SMOTEENN_Combination_Sampling_balanced_accuracy_score.png)
 
@@ -59,7 +59,7 @@ The purpose of this analysis is to compare and determine the best machine learni
 
 **Balanced Random Forest Classifier**
 
--Balanced accuracy score:
+Balanced accuracy score:
 
 ![picture alt](https://github.com/ChristinaGalley/Credit_Risk_Analysis/blob/main/Resources/Balanced_Random_Forest_Classifier_balanced_accuracy_score.png)
 
@@ -71,7 +71,7 @@ The purpose of this analysis is to compare and determine the best machine learni
 
 **Easy Ensemble AdaBoost Classifier**
 
--Balanced accuracy score:
+Balanced accuracy score:
 
 ![picture alt](https://github.com/ChristinaGalley/Credit_Risk_Analysis/blob/main/Resources/Easy_Ensemnble_AdaBoost_Classifier_balanced_accuracy_score.png)
 
