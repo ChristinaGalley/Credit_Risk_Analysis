@@ -1,11 +1,11 @@
 # **Credit_Risk_Analysis**
 ---
 ## Overview
----
+
 The purpose of this analysis is to compare and determine the best machine learning model for predicting credit risk. Imbalanced-learn and scikit-learn libraries were used to build and evaluate models with resampling. Different techniques were employed to train and evaluate models with unbalanced classes. The credit card credit dataset from LendingClub was oversampled using the RandomOverSampler and SMOTE algorithms, and undersampled using the ClusterCentroids algorithm. A combinatorial approach of over- and undersampling using the SMOTEENN algorithm was completed. Lastly, the two new machine learning models that reduce bias, BalancedRandomForestClassifier and EasyEnsembleClassifier were used to predict credit risk.
 ---
 ## Results
----
+
 **Native Random Oversampling**
 -Balanced accuracy score:
 ![picture alt](https://github.com/ChristinaGalley/Credit_Risk_Analysis/blob/main/Resources/Native_Random_Oversampling_balanced_accuracy_score.png)
